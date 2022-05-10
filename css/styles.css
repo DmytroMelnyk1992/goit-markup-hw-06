@@ -639,6 +639,7 @@ h2 {
   border-radius: 4px;
   background: transparent;
   padding-left: 16px;
+  color: #afb1b8;
 }
 
 .E-mail {
@@ -822,7 +823,8 @@ h2 {
   color: #757575;
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
+  justify-content: center;
+  margin-bottom: 30px;
 }
 
 .agreement-link {
